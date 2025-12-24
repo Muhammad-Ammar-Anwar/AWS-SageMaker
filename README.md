@@ -1,1 +1,1 @@
-## End To End Ml Project Using Sagemaker
+## End To End ML Project Using Sagemaker
